@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">A passionate FullStack and Mobile developer from Kyrgyzystan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbek-code" alt="azizbek-code" /></a> </p>
 
 - 🔭 I’m currently working on **o`lcha uz**
 
