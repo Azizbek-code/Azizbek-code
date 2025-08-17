@@ -4,11 +4,11 @@
 <h3 align="center">A passionate FullStack and Mobile developer from Kyrgyzystan</h3>
 
 
-- 🔭 I’m currently working on **o`lcha uz**
+- 🔭 I’m currently working on **Start Up**
 
-- 🌱 I’m currently learning **FullStack and Flutter**
+- 🌱 I’m currently learning **FullStack**
 
-- 👯 I’m looking to collaborate on **Not yet**
+- 👯 I’m looking to collaborate on **Chat-gpt**
 
 - 👨‍💻 All of my projects are available at [Not yet](Not yet)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **elemahunovbahrombek@gmail.com**
 
-- 📄 Know about my experiences [Not yet](Not yet)
+- 📄 Know about my experiences [1 year of beckend]
 
 - ⚡ Fun fact **I Think I am funny**
 
